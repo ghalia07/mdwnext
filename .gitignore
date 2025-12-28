@@ -1,0 +1,14 @@
+# Backend
+backend/.env
+backend/vendor/
+backend/node_modules/
+backend/.idea/
+
+# Frontend
+frontend/.env
+frontend/node_modules/
+frontend/.idea/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
